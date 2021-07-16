@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vungle:publisher-sdk-android:6.5.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/d917f344dc6d78fd982f460bf35e7b23/jetified-publisher-sdk-android-6.5.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/d917f344dc6d78fd982f460bf35e7b23/jetified-publisher-sdk-android-6.5.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/d917f344dc6d78fd982f460bf35e7b23/jetified-publisher-sdk-android-6.5.3/res" />
+      <root url="file://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/d917f344dc6d78fd982f460bf35e7b23/jetified-publisher-sdk-android-6.5.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/d917f344dc6d78fd982f460bf35e7b23/jetified-publisher-sdk-android-6.5.3/jars/libs/androidx-vng-moat-mobile-app-kit-2.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/modules-2/files-2.1/com.vungle/publisher-sdk-android/6.5.3/d554494d575379e1f5c936a05c5a80bb30909d8b/publisher-sdk-android-6.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mockito:mockito-android:2.19.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/modules-2/files-2.1/org.mockito/mockito-android/2.19.1/14de46e31c7b7934c2481e72a5579e2a62cddaa9/mockito-android-2.19.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/modules-2/files-2.1/org.mockito/mockito-android/2.19.1/ba027bdb1b782db2b9b0a3a2b53eac0675d17625/mockito-android-2.19.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/modules-2/files-2.1/org.mockito/mockito-android/2.19.1/4bccf34da62117c5e905178b003e61b0cd5eb65f/mockito-android-2.19.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

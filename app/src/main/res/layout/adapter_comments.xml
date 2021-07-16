@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/admin_comment_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginRight="@dimen/_40sdp"
+        android:visibility="gone">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/iv_admin_image"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:layout_marginBottom="@dimen/_8sdp"
+            android:src="@drawable/ic_default_pic" />
+
+        <RelativeLayout
+            android:id="@+id/rl_time_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_5sdp"
+            android:layout_toRightOf="@id/iv_admin_image">
+
+            <TextView
+                android:id="@+id/tv_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_4sdp"
+                android:layout_toRightOf="@id/tv_name"
+                android:fontFamily="@font/poppins_regular"
+                android:maxLines="1"
+                android:minLines="1"
+                android:text="11:35 am"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="@dimen/_8sdp" />
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:fontFamily="@font/poppins_regular"
+                android:singleLine="true"
+                android:text="Admin-"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="@dimen/_8sdp" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rl_time_view"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:layout_marginTop="@dimen/_4sdp"
+            android:layout_marginEnd="@dimen/_8sdp"
+            android:layout_toEndOf="@id/iv_admin_image"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/tv_comment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_4sdp"
+                android:background="@drawable/rounded_corner_comment_background"
+                android:fontFamily="@font/poppins_regular"
+                android:gravity="center_vertical"
+                android:minWidth="@dimen/_100sdp"
+                android:minHeight="@dimen/_40sdp"
+                android:padding="@dimen/_10sdp"
+                android:text=""
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_8sdp" />
+
+        </LinearLayout>
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/user_comment_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="@dimen/_40sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:visibility="gone">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/iv_user_image"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:layout_marginEnd="@dimen/_8sdp"
+            android:layout_marginBottom="@dimen/_8sdp"
+            android:src="@drawable/ic_default_pic" />
+
+        <RelativeLayout
+            android:id="@+id/rl_time_view_user"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/_5sdp"
+            android:layout_toLeftOf="@id/iv_user_image">
+
+            <TextView
+                android:id="@+id/tv_time_user"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/_4sdp"
+                android:fontFamily="@font/poppins_regular"
+                android:gravity="end"
+                android:maxLines="1"
+                android:minLines="1"
+                android:text="11:35 am"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="@dimen/_8sdp" />
+
+            <TextView
+                android:id="@+id/tv_name_user"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@id/tv_time_user"
+                android:ellipsize="end"
+                android:fontFamily="@font/poppins_regular"
+                android:singleLine="true"
+                android:text="You-"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="@dimen/_8sdp" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rl_time_view_user"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:layout_marginTop="@dimen/_4sdp"
+            android:layout_marginEnd="@dimen/_8sdp"
+            android:layout_toStartOf="@id/iv_user_image"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/tv_comment_user"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_4sdp"
+                android:background="@drawable/rounded_corner_comment_background"
+                android:fontFamily="@font/poppins_regular"
+                android:gravity="end|center_vertical"
+                android:minWidth="@dimen/_100sdp"
+                android:minHeight="@dimen/_40sdp"
+                android:padding="@dimen/_10sdp"
+                android:text=""
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_8sdp" />
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

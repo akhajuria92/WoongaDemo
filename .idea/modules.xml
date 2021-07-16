@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Woonga.iml" filepath="$PROJECT_DIR$/Woonga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Woonga.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Woonga.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unity-ads/Woonga.unity-ads.iml" filepath="$PROJECT_DIR$/.idea/modules/unity-ads/Woonga.unity-ads.iml" />
+    </modules>
+  </component>
+</project>

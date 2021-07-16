@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-ui:2.2.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/f0bc87787a1fb2c240f111f46e1f1a11/navigation-ui-2.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/f0bc87787a1fb2c240f111f46e1f1a11/navigation-ui-2.2.2/res" />
+      <root url="file://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/f0bc87787a1fb2c240f111f46e1f1a11/navigation-ui-2.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/modules-2/files-2.1/androidx.navigation/navigation-ui/2.2.2/54c06c95331197c8d71a79e3cb53aef3c1dc81be/navigation-ui-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

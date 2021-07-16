@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52ed8a8a-8ef3-4aa4-b9dd-30f92a6fe6ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/WoongaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/WoongaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/adapters/AdapterBanners.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/adapters/AdapterBanners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/adapters/AdapterHotOffers.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/adapters/AdapterHotOffers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/adapters/AdapterTopCashbackOffers.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/adapters/AdapterTopCashbackOffers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/adapters/AdapterTopRewardOffers.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/adapters/AdapterTopRewardOffers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/firebase/FirebaseMessagingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/firebase/FirebaseMessagingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/HomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/HomeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/ConfirmOtpFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/ConfirmOtpFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/adapter_banner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/adapter_banner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/release/app-release.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/release/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unity-ads/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/unity-ads/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/home/abc/.android/avd/New_Device_API_29.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Interface" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../../JKS Files/Woonga/woongaKeystore.jks" />
+    <option name="KEY_ALIAS" value="woonga123" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YfIYMQkTaJPBP9Q7LDr9Nt5yZO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="Woonga.app" />
+    <property name="BundleExportedModule" value="app" />
+    <property name="DEBUGGABLE_DEVICE" value="realme-rmx1851-41690d1f" />
+    <property name="DEBUGGABLE_PROCESS" value="com.app.android.woonga" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="8414e4d77ce5" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-11T19:50:07.260Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/SportsBettingGameBETUP_v1.95" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="RESOLVED_DEPENDENCIES_MINIMIZE" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/assets" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-mdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res" />
+    </key>
+    <key name="android.template.-101367622">
+      <recent name="com.android.woonga.views.activities" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.android.woonga.views.activities" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.android.woonga.utils" />
+      <recent name="com.android.woonga.adapters" />
+      <recent name="com.android.woonga.webapi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Woonga.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unity-ads" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Woonga.unity-ads" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52ed8a8a-8ef3-4aa4-b9dd-30f92a6fe6ee" name="Default Changelist" comment="" />
+      <created>1575184072304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575184072304</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="801" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1615491775998">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1615491775998" />
+    <state x="754" y="298" key="#xdebugger.evaluate" timestamp="1622367644929">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="754" y="298" key="#xdebugger.evaluate/72.27.1848.1053@72.27.1848.1053" timestamp="1622367644929" />
+    <state x="842" y="319" width="505" height="466" key="AndroidProcessChooserDialog" timestamp="1622367604437">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="839" y="319" width="493" height="466" key="AndroidProcessChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1619097441423" />
+    <state x="842" y="319" width="505" height="466" key="AndroidProcessChooserDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1622367604437" />
+    <state width="434" height="478" key="DebuggerActiveHint" timestamp="1622367423156">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="434" height="478" key="DebuggerActiveHint/72.27.1848.1053@72.27.1848.1053" timestamp="1622367423156" />
+    <state x="755" y="296" width="472" height="513" key="FileChooserDialogImpl" timestamp="1622636742513">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="752" y="296" width="472" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1617387195715" />
+    <state x="755" y="296" width="472" height="513" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1622636742513" />
+    <state width="1802" height="198" key="GridCell.Tab.0.bottom" timestamp="1622397945428">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1807" height="201" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1619118196470" />
+    <state width="1802" height="198" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1622397945428" />
+    <state width="1802" height="198" key="GridCell.Tab.0.center" timestamp="1622397945426">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1807" height="201" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1619118196470" />
+    <state width="1802" height="198" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1622397945426" />
+    <state width="1802" height="198" key="GridCell.Tab.0.left" timestamp="1622397945426">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1807" height="201" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1619118196470" />
+    <state width="1802" height="198" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1622397945426" />
+    <state width="1802" height="198" key="GridCell.Tab.0.right" timestamp="1622397945427">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1807" height="201" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1619118196470" />
+    <state width="1802" height="198" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1622397945427" />
+    <state width="1802" height="198" key="GridCell.Tab.1.bottom" timestamp="1622397945424">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1807" height="201" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1619118196469" />
+    <state width="1802" height="198" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1622397945424" />
+    <state width="1802" height="198" key="GridCell.Tab.1.center" timestamp="1622397945423">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1807" height="201" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1619118196469" />
+    <state width="1802" height="198" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1622397945423" />
+    <state width="1802" height="198" key="GridCell.Tab.1.left" timestamp="1622397945422">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1807" height="201" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1619118196469" />
+    <state width="1802" height="198" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1622397945422" />
+    <state width="1802" height="198" key="GridCell.Tab.1.right" timestamp="1622397945424">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1807" height="201" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1619118196469" />
+    <state width="1802" height="198" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1622397945424" />
+    <state width="1802" height="198" key="GridCell.Tab.2.bottom" timestamp="1622397945426">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1807" height="201" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1619118196470" />
+    <state width="1802" height="198" key="GridCell.Tab.2.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1622397945426" />
+    <state width="1802" height="198" key="GridCell.Tab.2.center" timestamp="1622397945425">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1807" height="201" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1619118196470" />
+    <state width="1802" height="198" key="GridCell.Tab.2.center/72.27.1848.1053@72.27.1848.1053" timestamp="1622397945425" />
+    <state width="1802" height="198" key="GridCell.Tab.2.left" timestamp="1622397945425">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1807" height="201" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1619118196469" />
+    <state width="1802" height="198" key="GridCell.Tab.2.left/72.27.1848.1053@72.27.1848.1053" timestamp="1622397945425" />
+    <state width="1802" height="198" key="GridCell.Tab.2.right" timestamp="1622397945425">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1807" height="201" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1619118196470" />
+    <state width="1802" height="198" key="GridCell.Tab.2.right/72.27.1848.1053@72.27.1848.1053" timestamp="1622397945425" />
+    <state x="581" y="300" width="819" height="514" key="NewModule_or_Project.wizard" timestamp="1622636748139">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="581" y="300" width="819" height="514" key="NewModule_or_Project.wizard/72.27.1848.1053@72.27.1848.1053" timestamp="1622636748139" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1622366152437">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1622366152437" />
+    <state width="926" height="527" key="XDebugger.FullValuePopup" timestamp="1622367641912">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="926" height="527" key="XDebugger.FullValuePopup/72.27.1848.1053@72.27.1848.1053" timestamp="1622367641912" />
+    <state x="685" y="291" width="1093" height="647" key="find.popup" timestamp="1622371860825">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="682" y="291" width="1095" height="647" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1618913554513" />
+    <state x="685" y="291" width="1093" height="647" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1622371860825" />
+    <state x="659" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1622371832172">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1618488421986" />
+    <state x="659" y="257" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1622371832172" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentProfile.java</url>
+          <line>416</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/utils/CompressionClass.java</url>
+          <line>225</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/utils/CompressionClass.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>260</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>250</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>1054</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>1047</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>779</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d12c2c91310d38b0b94f801ec2193b1/jetified-sdk-4.1.4/jars/classes.jar!/com/adcolony/sdk/AdColony.class</url>
+          <line>496</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentOffers.java</url>
+          <line>370</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/HomeActivity.java</url>
+          <line>145</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentProfile.java</url>
+          <line>278</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentProfile.java</url>
+          <line>287</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentProfile.java</url>
+          <line>263</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/MainActivity.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/utils/SmsReceiver.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>1004</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/ViewDocumentActivity.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/ViewDocumentActivity.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/ViewDocumentActivity.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/ViewDocumentActivity.java</url>
+          <line>201</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/ViewDocumentActivity.java</url>
+          <line>193</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/ViewDocumentActivity.java</url>
+          <line>187</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/ViewDocumentActivity.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/ViewDocumentActivity.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/ViewDocumentActivity.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/ViewDocumentActivity.java</url>
+          <line>182</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentHome.java</url>
+          <line>921</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>994</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>965</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/WithdrawlActivity.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentOffers.java</url>
+          <line>190</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentOffers.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentOffers.java</url>
+          <line>176</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/adapters/AdapterCategoryOffers.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentOffers.java</url>
+          <line>191</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentOffers.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OffersActivity.java</url>
+          <line>236</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OffersActivity.java</url>
+          <line>350</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>1167</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>446</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentHome.java</url>
+          <line>408</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentHome.java</url>
+          <line>742</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/fragments/FragmentHome.java</url>
+          <line>779</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OffersActivity.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>217</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>234</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>409</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>484</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>463</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/android/woonga/views/activities/OfferDetailActivity.java</url>
+          <line>292</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$USER_HOME$/Android/Sdk/platforms/android-28/android.jar!/android/view/View.class</url>
+          <line>2937</line>
+          <properties class="android.view.View.OnContextClickListener" method="onContextClick">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

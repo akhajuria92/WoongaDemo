@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar_1" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"
+        app:tabIndicatorHeight="@dimen/_3sdp"
+        app:tabIndicatorGravity="bottom"
+        android:layout_below="@id/toolbar"
+        app:tabIndicatorColor="@android:color/white"
+        android:background="@color/colorPrimary"
+        app:tabSelectedTextColor="@android:color/white"
+        app:tabTextAppearance="@style/HistoryTabLayoutTextAppearance"
+        app:tabTextColor="@color/colorGrey"
+        app:tabMode="fixed" />
+
+
+    <com.android.woonga.utils.NonSwipeableViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tab"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+
+
+</RelativeLayout>

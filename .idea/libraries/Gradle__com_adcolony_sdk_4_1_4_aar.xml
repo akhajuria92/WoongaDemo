@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.adcolony:sdk:4.1.4@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/721b595009559e1284e9365534507cf2/jetified-sdk-4.1.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/721b595009559e1284e9365534507cf2/jetified-sdk-4.1.4/res" />
+      <root url="file://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/721b595009559e1284e9365534507cf2/jetified-sdk-4.1.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/42f775bacc1f7fc2c2635f169c0004a3/jetified-sdk-4.1.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/42f775bacc1f7fc2c2635f169c0004a3/jetified-sdk-4.1.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/42f775bacc1f7fc2c2635f169c0004a3/jetified-sdk-4.1.4/res" />
+      <root url="file://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/72a615428877ad14c1aea5269cd06a27/jetified-sdk-4.1.4/res" />
+      <root url="file://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/72a615428877ad14c1aea5269cd06a27/jetified-sdk-4.1.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Smartebiz/gradle/wrapper/caches/transforms-2/files-2.1/72a615428877ad14c1aea5269cd06a27/jetified-sdk-4.1.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
